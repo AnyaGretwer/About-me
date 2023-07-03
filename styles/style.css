@@ -1,0 +1,21 @@
+html {
+    background-color: #dedbd2;
+    color: #4a5759;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}
+
+ul {
+    border: 5px dashed #b0c4b1;
+    border-radius: 15px;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+h3 {
+    text-decoration: underline;
+}
